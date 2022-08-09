@@ -1,0 +1,9 @@
+[26-Jan-2018 08:31:36 UTC] PHP Fatal error:  Call to undefined function getGeoIP() in /home/u9292821/public_html/bahtera/application/views/template.php on line 82
+[26-Jan-2018 08:32:21 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/u9292821/public_html/bahtera/application/views/template.php on line 131
+[14-Feb-2018 02:01:30 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/u9292821/public_html/bahtera/application/views/dashboard.php on line 191
+[12-Mar-2018 11:25:48 Asia/Krasnoyarsk] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/u9292821/public_html/bahtera/application/models/M_rapat.php on line 10
+[21-Feb-2019 15:01:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/u9292821/public_html/bahtera/application/views/dashboard.php on line 168
+[21-Feb-2019 15:02:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/u9292821/public_html/bahtera/application/views/dashboard.php on line 168
+[21-Feb-2019 15:02:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/u9292821/public_html/bahtera/application/views/dashboard.php on line 168
+[30-Apr-2019 14:32:47 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/u9292821/public_html/bahtera/application/controllers/hrd/Karyawan.php on line 608
+[30-Apr-2019 15:11:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/u9292821/public_html/bahtera/application/controllers/hrd/Karyawan.php on line 69
